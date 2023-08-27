@@ -1,0 +1,105 @@
+#banner{
+ background-color: rgb(255, 255, 255);
+    display: block;
+    width: 100%;
+    border-bottom: 4px solid black;
+    top: 0;
+    position: fixed;
+    
+
+}
+#banner img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+}
+
+header{
+    display: block;
+    width: 100%;
+
+}
+
+#main-header {
+    margin-top: 50px;
+    display: block;
+    width: 100%;
+}
+
+#main-header img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 80%;
+}
+
+main{
+    width: 70%;
+    display: inline-block;
+
+}
+
+aside{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+/* body{
+    margin-top: 5% ;
+    margin-left: 5%;
+    margin-right: 5%;
+} */
+
+#content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+body{
+    margin-top: 7%;
+}
+
+.widget{
+    padding-top: 30px;
+    border-top: 4px solid black;
+    font-size: 30px;
+    display: block;
+    margin-left: 10%;
+    margin-top: 10%;
+   
+}
+.widget input{
+    display: block;
+    font-size: 25px;
+    margin: 5px;
+    border: solid black 2px;
+   
+    
+}
+.widget button{
+    background-color: black;
+    font-size: 30px;
+    margin: 5px;
+    color: white;
+}
+
+#post p{
+    font-size: 30px;
+}
+
+li h4{
+    font-size: 40px;
+}
+#post h2{
+    font-size: 50px;
+}
+
+#list img{
+    height: 60%;
+    width: 80%;
+}
